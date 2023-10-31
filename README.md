@@ -6,10 +6,10 @@
 ## Screenshots
 
 ### Main Interface
-![Main Interface](images/1.png)
+![Main Interface](src/main/resources/img/1.png)
 
 ### Additional Interface
-![Additional Interface](images/2.png)
+![Additional Interface](src/main/resources/img/2.png)
 
 ## Key Features
 - Interaction with the Telegram API
